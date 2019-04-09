@@ -1,0 +1,8 @@
+{
+  "name": "DogFriendlyQC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Kaleigh224/DogFriendlyQC.git",
+  "author": "Kaleigh Herold <kaleigh224@gmail.com>",
+  "license": "MIT"
+}
